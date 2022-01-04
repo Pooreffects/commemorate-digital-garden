@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "commemorate": "apps/commemorate",
+    "commemorate-e2e": "apps/commemorate-e2e"
+  }
+}
